@@ -1,0 +1,33 @@
+# -----------------------
+# Secrets (DO NOT COMMIT)
+# -----------------------
+course_api_key.txt
+*.env
+*.key
+
+# -----------------------
+# Python / venv junk
+# -----------------------
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# -----------------------
+# OS junk
+# -----------------------
+.DS_Store
+
+# -----------------------
+# Generated outputs (don’t commit)
+# -----------------------
+hpaithan_ibes_*.csv
+*.run*.csv
+*.csv
+
+# Screenshot (Canvas submission only; keep out of GitHub)
+hpaithan_HW04_run.png
+*.png
+
+
